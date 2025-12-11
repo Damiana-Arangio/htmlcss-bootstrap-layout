@@ -24,7 +24,6 @@
 ### Mobile
 ![Anteprima mobile](img/screen-layout-mobile.png)
 
-> 🔹 Sostituisci i nomi dei file con quelli reali che hai salvato nella cartella `img`.
 
 ## Tecnologie utilizzate
 
